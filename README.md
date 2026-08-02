@@ -50,7 +50,7 @@ To install and use this contract, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/oscarpascualbakker/asset-tokenization.git
+   git clone https://github.com/Unity-Billal-mesloub/asset-tokenization.git
    ```
 
 2. Build the project:
@@ -96,6 +96,4 @@ This should provide a detailed assessment of code quality and potential vulnerab
 
 This contract is a demonstration project and should not be used in a production environment without thorough review and adaptation. It's crucial to consider the legal and regulatory implications of asset tokenization in your jurisdiction.
 
-## License
 
-This project is licensed under the [MIT](https://opensource.org/licenses/MIT) License.
